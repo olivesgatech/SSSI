@@ -35,5 +35,8 @@
 ## Download
 In order to receive the download link, please fill out this [FORM](https://docs.google.com/forms/d/e/1FAIpQLScSu1Vu9DTe9Znznw2avn5LDFkexVXsfUl0dcHZwQ3KDIyXTQ/viewform?vc=0&c=0&w=1) to submit your information and agree the conditions of use. These information will be kept confidential and will not be released to anybody outside our administration team.
 
+## User guide 
+Find the user guide at this [LINK] (https://github.com/olivesgatech/SSSI/blob/master/figures/UserGuide.pdf)
+
 ## Contributers 
 Lingchen Zhu, Enato Liu, and Lijun Zhu 
