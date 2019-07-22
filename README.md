@@ -1,6 +1,6 @@
 # Seismic Simulation, Survey, and Imaging (S3I) 
 ## Purpose of S3I
-At the [Center for Energy and Geo Processing (CeGP)](https://cegp.ece.gatech.edu/) and at the [OLIVES lab](www.ghassanalregib.com), we created the S3I tool in order to: 
+At the [Center for Energy and Geo Processing (CeGP)](https://cegp.ece.gatech.edu/) and at the [OLIVES lab](https://ghassanalregib.com/), we created the S3I tool in order to: 
   * Provides an easy MATLAB®-based library to simulate seismic imaging
   * Produces synthesized data for any given velocity model
   * Targets students as well as professionals in exploration geophysics
